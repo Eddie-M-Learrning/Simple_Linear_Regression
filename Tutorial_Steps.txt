@@ -1,0 +1,20 @@
+#Hello All , Greetings from @Eddie-M-Learning , Thank  you for using my code 
+by this code you can learn the loading , predicting and exporting the values
+
+Steps:
+1. Import libraries
+2. Load The Price_list.csv
+3. Plot the values to get an idea
+4. Create  object  using linear model
+5. Fit the values
+6. Predict the values 
+7. Plot the regression line to view
+8. Check the predicted value
+9. load the prediction.csv
+10. Create new column
+11. Predict the values 
+12. Export the values 
+
+For any  Queries feel free to mail us @ gughanbabu4@gmail.com
+For more Tutorials and Dataset  do Follow us @Eddie-M-Learninig
+ 
